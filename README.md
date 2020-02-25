@@ -4,4 +4,4 @@ This is a test repository for H547 at IUPUI
 
 ### I can't wait to write in HTML!
 
-[I'm an in-line style line] (https://google.com)
+[I'm an inline style line] (https://google.com)
